@@ -4,6 +4,7 @@
 }
 .top {
   display: flex;
+  align-items: start;
   height: 80px;
   border: 1px solid whitesmoke;
   align-items: center;
@@ -59,6 +60,7 @@
   background-color: grey;
   margin-left: 20px;
   display: flex;
+  align-items: center;
   gap: 5px;
   color: white;
   border-radius: 10px;
